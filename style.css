@@ -30,7 +30,7 @@ p {
   font-size: 18px;
   box-sizing: border-box;
   width: 75%;
-  margin: 1% auto;
+  margin: 1% 2%;
 }
 
 .form{
@@ -39,7 +39,7 @@ p {
 }
 
 select {
-  width: 15%;
+  width: 20%;
 }
 
 .test {
