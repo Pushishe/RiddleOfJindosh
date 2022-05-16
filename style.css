@@ -29,8 +29,8 @@ p {
 .container {
   font-size: 18px;
   box-sizing: border-box;
-  width: 75%;
-  margin: 1% 2%;
+  width: auto;
+  margin: 1% auto;
 }
 
 .form{
@@ -39,7 +39,7 @@ p {
 }
 
 select {
-  width: 20%;
+  width: 19%;
 }
 
 .test {
