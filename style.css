@@ -17,8 +17,6 @@ body {
   color: white;
   background-image: url('quest2.jpg');
   background-size: cover;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
   font-family: 'Source Serif Pro', serif;
 }
 
