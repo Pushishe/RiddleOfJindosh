@@ -95,7 +95,10 @@ function isTrue() {
     if (treas1.value == first.treas && treas2.value == second.treas && treas3.value == third.treas && treas4.value == fourth.treas && treas5.value == fifth.treas) {
       alert('Верно! Кодовое слово: Зигота')
       return true
-    }
+    } else {
+        alert('Неверно!')
+        return false
+      }
   } else {
     alert('Неверно!')
     return false
